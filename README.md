@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Lujen 🌸💗</h1>
 
-<!--
-**lujjin/lujjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Learning+with+Passion+🌷;Future+Software+Engineer+💻;Growing+Step+by+Step+✨" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌷 About Me
+
+- 🎓 Computer Science Student  
+- 💻 Exploring the world of programming  
+- 🌱 Learning new concepts step by step  
+- 🧠 Developing logical & problem-solving skills  
+- ✨ Believing in continuous growth  
+
+---
+
+## 💕 Currently Learning
+
+- Programming Fundamentals  
+- Git & GitHub  
+- Data Structures Basics  
+- Writing clean and simple code  
+
+---
+
+## 🌸 My Vision
+
+To become a confident software engineer  
+and build meaningful, beautiful projects 💗
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lujjin&show_icons=true&theme=rose_pine" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lujjin&layout=compact&theme=rose_pine" />
+</p>
+
+---
+
+<p align="center">
+  💗 “Soft heart. Strong mind. Powerful code.” 💗
+</p>
