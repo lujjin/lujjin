@@ -1,56 +1,58 @@
-<h1 align="center">
-  Lujen Alhaj 👩🏻‍💻✨
-</h1>
+<h1 align="center">Lujen Alhaj 👩🏻‍💻✨</h1>
 
 <h3 align="center">
-  Full-Stack Developer | AI Enthusiast | Software Engineer 🚀
+Full-Stack Developer | AI Enthusiast | Software Engineer 🚀
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=800&lines=Computer+Science+Graduate+🎓;Full-Stack+Developer+💻;AI+%7C+Smart+Systems+%7C+Healthcare+Tech+🩺;Building+Elegant+and+Intelligent+Solutions+✨;Soft+Heart.+Sharp+Mind.+Fearless+Ambition.+💗" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=850&lines=Computer+Science+Graduate+🎓;Jordan+University+of+Science+and+Technology+🏛️;Full-Stack+Developer+💻;AI+%7C+Smart+Systems+%7C+Healthcare+Tech+🩺;Building+Elegant+and+Intelligent+Solutions+✨" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=F8BBD0&height=120&section=header"/>
 </p>
 
 ---
 
-## 👩🏻‍💻 About Lujen
+## 👩🏻‍💻 About Me
 
-🎓 Computer Science Graduate  
+🎓 Computer Science Graduate – Jordan University of Science and Technology  
 💻 Full-Stack Developer (Front-End & Back-End)  
 🤖 Passionate about Artificial Intelligence & Smart Systems  
-🩺 Builder of intelligent healthcare platforms  
+🩺 Experienced in building healthcare-related systems  
 🌷 Strong believer in discipline, growth, and elegant design  
 🚀 Focused on creating impactful, real-world software  
 
-I don’t just write code.  
-I design experiences, solve problems, and build systems that matter.
+I don’t just write code —  
+I design experiences, architect solutions, and build systems that matter.
 
 ---
 
-## 🛠 Tech Arsenal
+## 🛠 Core Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,fastapi,postgres,docker,git,github,linux,vscode,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi,postgres,git,github,docker,linux,cpp,vscode" />
 </p>
 
 ---
 
 ## 🧠 What Defines Me
 
-✨ Logical thinker with creative vision  
-🎨 Eye for clean UI & smooth user experience  
-🔐 Care about secure APIs & structured back-end  
-📊 Interested in data-driven and AI-powered solutions  
-📈 Constant learner — always leveling up  
+✨ Logical thinker with a creative mindset  
+🎨 Strong eye for clean UI & structured design  
+🔐 Care about secure APIs & backend architecture  
+📊 Interested in AI-driven and data-powered solutions  
+📈 Continuous learner — always improving  
 
 ---
 
-## 🚀 Featured Direction
+## 🚀 Professional Direction
 
-- 🌐 Building Full-Stack Web Applications  
-- 🤖 Exploring Machine Learning  
-- 🩺 Developing Smart Healthcare Systems  
-- 🏗 Designing Scalable Architectures  
-- 🔒 Implementing Secure & Clean Code Practices  
+- 🌐 Building scalable Full-Stack web applications  
+- 🤖 Exploring Machine Learning & intelligent systems  
+- 🩺 Developing smart healthcare platforms  
+- 🏗 Designing structured and maintainable architectures  
+- 🔒 Writing clean, secure, and efficient code  
 
 ---
 
@@ -71,7 +73,7 @@ I design experiences, solve problems, and build systems that matter.
 
 To become a Software Engineer  
 who merges intelligence with elegance  
-and builds systems that improve lives 🌍✨  
+and builds systems that improve lives through technology 🌍✨  
 
 ---
 
