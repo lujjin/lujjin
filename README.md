@@ -1,86 +1,72 @@
-<h1 align="center">Lujen Alhaj 👩🏻‍💻✨</h1>
+import flet as ft
 
-<h3 align="center">
-Full-Stack Developer | AI Enthusiast | Software Engineer 🚀
-</h3>
+def main(page: ft.Page):
+    page.title = "Lujen Alhaj 👩🏻‍💻✨"
+    
+    # Header
+    page.add(
+        ft.Column(
+            [
+                ft.Text("Lujen Alhaj 👩🏻‍💻✨", size=40, weight=ft.FontWeight.BOLD, text_align=ft.TextAlign.CENTER),
+                ft.Text("Full-Stack Developer | AI Enthusiast | Software Engineer 🚀", size=20, text_align=ft.TextAlign.CENTER),
+                ft.Image(
+                    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=850&lines=Computer+Science+Graduate+🎓;Jordan+University+of+Science+and+Technology+🏛️;Full-Stack+Developer+💻;AI+%7C+Smart+Systems+%7C+Healthcare+Tech+🩺;Building+Elegant+and+Intelligent+Solutions+✨",
+                    width=850,
+                ),
+            ],
+            alignment=ft.MainAxisAlignment.CENTER,
+            horizontal_alignment=ft.CrossAxisAlignment.CENTER,
+        )
+    )
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=850&lines=Computer+Science+Graduate+🎓;Jordan+University+of+Science+and+Technology+🏛️;Full-Stack+Developer+💻;AI+%7C+Smart+Systems+%7C+Healthcare+Tech+🩺;Building+Elegant+and+Intelligent+Solutions+✨" />
-</p>
+    # About Me
+    page.add(
+        ft.Column(
+            [
+                ft.Text("👩🏻‍💻 About Me", size=30, weight=ft.FontWeight.BOLD),
+                ft.Text("🎓 Computer Science Graduate – Jordan University of Science and Technology"),
+                ft.Text("💻 Full-Stack Developer (Front-End & Back-End)"),
+                ft.Text("🤖 Passionate about Artificial Intelligence & Smart Systems"),
+                ft.Text("🩺 Experienced in building healthcare-related systems"),
+                ft.Text("🌷 Strong believer in discipline, growth, and elegant design"),
+                ft.Text("🚀 Focused on creating impactful, real-world software"),
+                ft.Text("\nI don’t just write code — I design experiences, architect solutions, and build systems that matter."),
+            ],
+            spacing=5
+        )
+    )
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F8BBD0&height=120&section=header"/>
-</p>
+    # Core Technologies
+    page.add(
+        ft.Column(
+            [
+                ft.Text("🛠 Core Technologies", size=25, weight=ft.FontWeight.BOLD),
+                ft.Image(
+                    src="https://skillicons.dev/icons?i=html,css,js,python,fastapi,postgres,git,github,docker,linux,cpp,vscode",
+                    width=700
+                )
+            ],
+            spacing=10
+        )
+    )
 
----
+    # Vision
+    page.add(
+        ft.Column(
+            [
+                ft.Text("💎 Vision", size=25, weight=ft.FontWeight.BOLD),
+                ft.Text(
+                    "To become a Software Engineer who merges intelligence with elegance "
+                    "and builds systems that improve lives through technology 🌍✨"
+                ),
+            ],
+            spacing=5
+        )
+    )
 
-## 👩🏻‍💻 About Me
+    # Footer
+    page.add(
+        ft.Text("Soft heart. Strong discipline. Powerful code. 💗", size=18, text_align=ft.TextAlign.CENTER)
+    )
 
-🎓 Computer Science Graduate – Jordan University of Science and Technology  
-💻 Full-Stack Developer (Front-End & Back-End)  
-🤖 Passionate about Artificial Intelligence & Smart Systems  
-🩺 Experienced in building healthcare-related systems  
-🌷 Strong believer in discipline, growth, and elegant design  
-🚀 Focused on creating impactful, real-world software  
-
-I don’t just write code —  
-I design experiences, architect solutions, and build systems that matter.
-
----
-
-## 🛠 Core Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi,postgres,git,github,docker,linux,cpp,vscode" />
-</p>
-
----
-
-## 🧠 What Defines Me
-
-✨ Logical thinker with a creative mindset  
-🎨 Strong eye for clean UI & structured design  
-🔐 Care about secure APIs & backend architecture  
-📊 Interested in AI-driven and data-powered solutions  
-📈 Continuous learner — always improving  
-
----
-
-## 🚀 Professional Direction
-
-- 🌐 Building scalable Full-Stack web applications  
-- 🤖 Exploring Machine Learning & intelligent systems  
-- 🩺 Developing smart healthcare platforms  
-- 🏗 Designing structured and maintainable architectures  
-- 🔒 Writing clean, secure, and efficient code  
-
----
-
-## 📊 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lujjin&show_icons=true&theme=rose_pine&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lujjin&layout=compact&theme=rose_pine&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lujjin&theme=rose_pine&hide_border=true" />
-</p>
-
----
-
-## 💎 Vision
-
-To become a Software Engineer  
-who merges intelligence with elegance  
-and builds systems that improve lives through technology 🌍✨  
-
----
-
-<p align="center">
-  <b>Soft heart. Strong discipline. Powerful code. 💗</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F472B6&height=150&section=footer"/>
-</p>
+ft.app(target=main)
